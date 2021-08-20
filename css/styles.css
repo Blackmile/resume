@@ -129,6 +129,11 @@ header {
     padding-bottom: 100px;
 }
 
+/* navbar */
+.navbar a {
+    color: #2f3061;
+}
+
 /* contact info
 *****************************/
 footer {
